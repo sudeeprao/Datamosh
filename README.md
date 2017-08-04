@@ -38,8 +38,6 @@ Then install ffmpeg, by running the following in the terminal:
 $ brew install ffmpeg
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Running Datamosh
 
 To datamosh a video, run the following command in your terminal once you cd into the directory
