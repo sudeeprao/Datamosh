@@ -12,7 +12,7 @@ These instructions will get you the project up and running on your local mac. Se
 
 ### Python3
 
-Follow these next set of instructions if your machine does not have Python 3 installed.
+Follow these next set of instructions if your mac does not have Python 3 installed.
 
 If you dont have hombrew installed, open your terminal and run:
 ```
