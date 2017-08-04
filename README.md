@@ -1,3 +1,4 @@
+![logo](/datamosh_logo.png?raw=true "Datamosh Logo")
 # Datamosh
 
 Datamosh is a python script for datamoshing MPEG4-encoded AVI videos. 
